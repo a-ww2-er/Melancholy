@@ -1,0 +1,43 @@
+[
+  {
+    "url": "https://audio.jukehost.co.uk/BdiQF3Vk7E1dhiqp86GEcBZaDxr8kXaB",
+    "title": "It is What It Is",
+    "artist": "Abe Parker",
+    "rating": 1,
+    "playlist": ["Pop"]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/Kcw4j9WOHnE4MP6dZr8tXwtmExsyJ907",
+    "title": "Faded",
+    "artist": "Alan Walker",
+    "artwork":"https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0d/a3/1a/0da31af7-d0ff-9bee-c427-1b6d0336f6fc/886446321981.jpg/316x316bb.webp",
+    "playlist": ["Dance"]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/AfHLLxIhVZJehUeJ1a9WXqS1CB1TOHKP",
+    "title": "Here(Remix)",
+    "artist": "Alicia cara",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/9d/33/0a/9d330a96-f007-72cc-4c37-c6cd876f8939/15UMGIM55240.rgb.jpg/316x316bb.webp",
+    "playlist": ["Pop", "Dance", "Rap"]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/cX1C1Pqcnmyvpt9IrcSx8j6L7jdAlKwx",
+    "title": "Gravy",
+    "artist": "Nasty C",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Video116/v4/a4/b1/78/a4b178fd-e642-0550-3ea9-8cdf116af843/Job54afff9f-9f02-4ac1-88e8-98f23d323167-151572505-PreviewImage_preview_image_nonvideo_sdr-Time1686945037390.png/316x316bb.webp",
+    "rating": 1,
+    "playlist": ["Rap"]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/YWquOUsOyFQfdRac6KFdLoNtGZI74xuh",
+    "title": "Time",
+    "artist": "NF",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3e/fe/fa/3efefa81-fa46-8124-46b1-1b340baff0e9/19UMGIM46307.rgb.jpg/316x316bb.webp",
+    "playlist": ["Pop"]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/u4kqR8tvbJozMzmvh6nm3NXHe6vNGojW",
+    "title": "Love you like a love song",
+    "artist": "Selena Gomez",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ee/96/1f/ee961ffa-2551-5614-7cd6-995fbcf1c468/14DMGIM05704.rgb.jpg/316x316bb.webp"
+  }]
