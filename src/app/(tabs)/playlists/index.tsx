@@ -34,6 +34,7 @@ const PlaylistsScreen = () => {
 				contentInsetAdjustmentBehavior="automatic"
 				style={{
 					paddingHorizontal: screenPadding.horizontal,
+					paddingTop: 100,
 				}}
 			>
 				<PlaylistsList

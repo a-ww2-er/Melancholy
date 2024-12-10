@@ -32,7 +32,7 @@ const ArtistsScreen = () => {
 	return (
 		<View style={defaultStyles.container}>
 			<ScrollView
-				style={{ paddingHorizontal: screenPadding.horizontal }}
+				style={{ paddingHorizontal: screenPadding.horizontal, paddingTop: 100 }}
 				contentInsetAdjustmentBehavior="automatic"
 			>
 				<FlatList

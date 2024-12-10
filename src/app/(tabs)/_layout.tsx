@@ -17,12 +17,12 @@ const TabsNavigation = () => {
 					headerShown: false,
 					tabBarStyle: {
 						position: 'absolute',
-						// borderTopLeftRadius: 20,
-						// borderTopRightRadius: 20,
+						borderTopLeftRadius: 20,
+						borderTopRightRadius: 20,
 						borderTopWidth: 0,
 						paddingTop: 8,
 						// paddingBottom: 8,
-						backgroundColor: '#FFFAE5',
+						backgroundColor: '#000000',
 					},
 					tabBarHideOnKeyboard: true,
 				}}
