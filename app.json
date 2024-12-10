@@ -1,50 +1,52 @@
 {
-  "expo": {
-    "name": "melancholy-music-player",
-    "slug": "melancholy-music-player",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "dark",
-    "scheme": "melancholy-music-player",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#000"
-    },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
-    "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "com.melancholy.music.player",
-      "infoPlist": {
-        "UIBackgroundModes": [
-          "audio"
-        ]
-      }
-    },
-    "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#000"
-      },
-      "package": "com.melancholy.music.player"
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    },
-    "plugins": [
-      "expo-router"
-    ],
-    "experiments": {
-      "typedRoutes": true,
-      "tsconfigPaths": true
-    },
-    "extra": {
-      "eas": {
-        "projectId": "4aa4f8bc-975a-4511-9588-1fe664d50544"
-      }
-    }
-  }
+	"expo": {
+		"name": "melancholy-music-player",
+		"slug": "melancholy-music-player",
+		"version": "1.0.0",
+		"orientation": "portrait",
+		"icon": "./assets/icon.png",
+		"userInterfaceStyle": "dark",
+		"scheme": "melancholy-music-player",
+		"splash": {
+			"image": "./assets/splash.png",
+			"resizeMode": "contain",
+			"backgroundColor": "#000"
+		},
+		"assetBundlePatterns": ["**/*"],
+		"ios": {
+			"supportsTablet": true,
+			"bundleIdentifier": "com.melancholy.music.player",
+			"infoPlist": {
+				"UIBackgroundModes": ["audio"]
+			}
+		},
+		"android": {
+			"adaptiveIcon": {
+				"foregroundImage": "./assets/adaptive-icon.png",
+				"backgroundColor": "#000"
+			},
+			"package": "com.melancholy.music.player"
+		},
+		"web": {
+			"favicon": "./assets/favicon.png"
+		},
+		"plugins": [
+			"expo-router",
+			[
+				"expo-build-properties",
+				{
+					"android": { "enablePngCrunchInReleaseBuilds": false }
+				}
+			]
+		],
+		"experiments": {
+			"typedRoutes": true,
+			"tsconfigPaths": true
+		},
+		"extra": {
+			"eas": {
+				"projectId": "4aa4f8bc-975a-4511-9588-1fe664d50544"
+			}
+		}
+	}
 }
